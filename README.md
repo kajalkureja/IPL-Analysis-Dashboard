@@ -1,4 +1,6 @@
 # IPL-Analysis-Dashboard
+
+**Please view the dashboard in excel in full screen mode**__
 This dashboard has been designed to provide a comprehensive analysis of IPL matches from 2008 to 2024, focusing on several critical performance metrics to help identify patterns and trends that influence match outcomes
 
 The following analyses have been carried out to offer deep insights into team performance, match outcomes, and individual contributions across seasons:
